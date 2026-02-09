@@ -1,0 +1,22 @@
+body {
+  background-color: #dabf5b;
+}
+main {
+  padding: 20px;
+}
+h1 {
+  color: #c5b996;
+  font-family: sans-serif;
+}
+p {
+  color: #d2b969;
+  font-family: Arial;
+}
+.box {
+  width: 200px;
+  height: 100px; 
+  background-color: lightblue;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 20px;
+}
