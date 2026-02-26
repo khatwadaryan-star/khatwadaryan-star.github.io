@@ -1,22 +1,22 @@
 body {
-  background-color: #dabf5b;
+  background-color: #d4af37;
 }
 main {
-  padding: 20px;
+  color: #ffffff;
+  font-family: Open Sans;
 }
 h1 {
-  color: #c5b996;
-  font-family: sans-serif;
+  color: #007bff;
+  font-family: Times New Roman;
 }
-p {
-  color: #d2b969;
+h2 {
+  color: #ff0000;
   font-family: Arial;
 }
-.box {
-  width: 200px;
-  height: 100px; 
-  background-color: lightblue;
-  border: 1px solid black;
-  padding: 10px;
-  margin: 20px;
+p {
+  color: #8338ec;
+  font-family: Helvetica;
+ul {
+ color: #000000;
+ font-family: Merriweather;
 }
