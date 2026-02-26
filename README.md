@@ -5,6 +5,6 @@ This project is designed to demonstrate my understanding of all the concepts I h
 - Basic web development tools (HTML, CSS, and Markdown)
 - Repository organization
 ## Documentation Folder
-https://github.com/khatwadaryan-star/Aryan-Khatwad-s-Final-Project/tree/2493f6cd1aea71d6ec7c2c278f1b76f39837e0f9/docs
+https://github.com/khatwadaryan-star/khatwadaryan-star.github.io/tree/b7501b07ae9b101ce3734be86ddc61a6a290deb7/docs
 ## Live Website
 https://khatwadaryan-star.github.io
