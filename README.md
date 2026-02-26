@@ -7,4 +7,4 @@ This project is designed to demonstrate my understanding of all the concepts I h
 ## Documentation Folder
 https://github.com/khatwadaryan-star/khatwadaryan-star.github.io/tree/b7501b07ae9b101ce3734be86ddc61a6a290deb7/docs
 ## Live Website
-https://khatwadaryan-star.github.io
+https://github.com/khatwadaryan-star/khatwadaryan-star.github.io/blob/13059ece5b70ae995a6904e2955d49a4ec6b7aec/index.html
